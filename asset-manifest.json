@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/notePad/static/css/main.6d136723.css",
+    "main.js": "/notePad/static/js/main.7a552846.js",
+    "index.html": "/notePad/index.html",
+    "static/media/magnifying-glass-solid.svg": "/notePad/static/media/magnifying-glass-solid.69472df91a4309b9461efa7441c6f021.svg",
+    "static/media/trash-solid.svg": "/notePad/static/media/trash-solid.f15d1e67d0bb8786f9e5ab5e6f02c915.svg",
+    "main.6d136723.css.map": "/notePad/static/css/main.6d136723.css.map",
+    "main.7a552846.js.map": "/notePad/static/js/main.7a552846.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d136723.css",
+    "static/js/main.7a552846.js"
+  ]
+}
